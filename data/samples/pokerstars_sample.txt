@@ -1,0 +1,49 @@
+PokerStars Hand #100000001:  Hold'em No Limit ($0.05/$0.10 USD) - 2024/01/01 12:00:00 ET
+Table 'Alpha' 3-max Seat #1 is the button
+Seat 1: Alice ($10 in chips)
+Seat 2: Bob ($10 in chips)
+Seat 3: Carol ($10 in chips)
+Bob: posts small blind $0.05
+Carol: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Carol [Ah Kd]
+Alice: raises $0.20 to $0.30
+Bob: calls $0.25
+Carol: raises $0.60 to $0.90
+Alice: folds
+Bob: folds
+*** SUMMARY ***
+
+PokerStars Hand #100000002:  Hold'em No Limit ($0.05/$0.10 USD) - 2024/01/01 12:01:00 ET
+Table 'Alpha' 3-max Seat #2 is the button
+Seat 1: Alice ($10 in chips)
+Seat 2: Bob ($10 in chips)
+Seat 3: Carol ($10 in chips)
+Carol: posts small blind $0.05
+Alice: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Carol [7c 2d]
+Bob: calls $0.10
+Carol: folds
+Alice: checks
+*** FLOP *** [2c 7d Js]
+Alice: checks
+Bob: bets $0.10
+Alice: folds
+*** SUMMARY ***
+
+PokerStars Hand #100000003:  Hold'em No Limit ($0.05/$0.10 USD) - 2024/01/01 12:02:00 ET
+Table 'Alpha' 3-max Seat #3 is the button
+Seat 1: Alice ($10 in chips)
+Seat 2: Bob ($10 in chips)
+Seat 3: Carol ($10 in chips)
+Alice: posts small blind $0.05
+Bob: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Carol [Qs Qd]
+Carol: folds
+Alice: folds
+*** SUMMARY ***
+
+
+
