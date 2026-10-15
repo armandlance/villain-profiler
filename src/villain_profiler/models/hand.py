@@ -38,6 +38,7 @@ class Hand:
     button_seat: int | None = None
     hero: str | None = None
     hero_cards: str | None = None
+    game_id: str = ""  # identifiant de la partie/table (ex. un Spin Betclic)
 
     def actions_on(self, street: Street) -> list[Action]:
         return [a for a in self.actions if a.street == street]

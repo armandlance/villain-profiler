@@ -1,0 +1,1710 @@
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6VK3NF27CWDEAJMJVDGQA
+Date & Time: 2026-10-14 21:59:51 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 50/100
+Total Pot: 300
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (770) [BB Hero]
+Seat 2: Player3 (730) [BTN SB]
+*** HOLE CARDS ***
+Sitsou: [2s Td]
+*** PRE-FLOP ***
+21:59:51 - Player3: Posts SB 50
+21:59:51 - Sitsou: Posts BB 100
+21:59:53 - Player3: Calls 50
+21:59:54 - Sitsou: Checks
+*** FLOP *** [6d 9c 8h]
+21:59:57 - Sitsou: Checks
+21:59:58 - Player3: Bets 100
+22:00:00 - Sitsou: Folds
+*** SUMMARY ***
+Player3 wins main pot of 300
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6VDRT9K12P31JX0ZJE2T8
+Date & Time: 2026-10-14 21:59:45 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 50/100
+Total Pot: 150
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (820) [BTN SB Hero]
+Seat 2: Player3 (680) [BB]
+*** HOLE CARDS ***
+Sitsou: [5h 9c]
+*** PRE-FLOP ***
+21:59:45 - Sitsou: Posts SB 50
+21:59:45 - Player3: Posts BB 100
+21:59:47 - Sitsou: Folds
+*** SUMMARY ***
+Player3 wins main pot of 150
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6V40G7DAF0N70V7HXED0A
+Date & Time: 2026-10-14 21:59:35 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 50/100
+Total Pot: 820
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (720) [BB Hero]
+Seat 2: Player3 (780) [BTN SB]
+*** HOLE CARDS ***
+Sitsou: [Qd Kc]
+*** PRE-FLOP ***
+21:59:35 - Player3: Posts SB 50
+21:59:35 - Sitsou: Posts BB 100
+21:59:37 - Player3: Calls 50
+21:59:39 - Sitsou: Raises to 720 and is all-in
+21:59:42 - Player3: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 820
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6TJJEFKRWSECE1H1Y93P7
+Date & Time: 2026-10-14 21:59:17 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 50/100
+Total Pot: 780
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (1110) [BTN SB Hero]
+Seat 2: Player3 (390) [BB]
+*** HOLE CARDS ***
+Sitsou: [As 2h]
+Player3: [Kc Ac]
+*** PRE-FLOP ***
+21:59:17 - Sitsou: Posts SB 50
+21:59:17 - Player3: Posts BB 100
+21:59:22 - Sitsou: Raises to 1110 and is all-in
+21:59:23 - Player3: Calls 290 and is all-in
+*** FLOP *** [Jc 5h 8h]
+*** TURN *** [Jc 5h 8h 7d]
+*** RIVER *** [Jc 5h 8h 7d 5c]
+*** SHOWDOWN ***
+Player3 shows [Kc Ac] (Pair) [5h 5c Ac Kc Jc]
+Sitsou shows [As 2h] (Pair) [5h 5c As Jc 8h]
+*** SUMMARY ***
+Player3 wins main pot of 780
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6TD9NKZN085WTHXZGS29Z
+Date & Time: 2026-10-14 21:59:12 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 40/80
+Total Pot: 120
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (1070) [BB Hero]
+Seat 2: Player3 (430) [BTN SB]
+*** HOLE CARDS ***
+Sitsou: [7s Qc]
+*** PRE-FLOP ***
+21:59:12 - Player3: Posts SB 40
+21:59:12 - Sitsou: Posts BB 80
+21:59:14 - Player3: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 120
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6SWZFKF5KQ07C5EFF4QDS
+Date & Time: 2026-10-14 21:58:55 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 40/80
+Total Pot: 400
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (910) [BTN SB Hero]
+Seat 2: Player3 (590) [BB]
+*** HOLE CARDS ***
+Sitsou: [8d 9h]
+*** PRE-FLOP ***
+21:58:55 - Sitsou: Posts SB 40
+21:58:55 - Player3: Posts BB 80
+21:58:59 - Sitsou: Raises to 160
+21:59:02 - Player3: Calls 80
+*** FLOP *** [3c 4c As]
+21:59:05 - Player3: Checks
+21:59:07 - Sitsou: Bets 80
+21:59:09 - Player3: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 400
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6SH03ZC9C295S4XR8B4FZ
+Date & Time: 2026-10-14 21:58:43 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 40/80
+Total Pot: 590
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (990) [BB Hero]
+Seat 2: Player3 (510) [BTN SB]
+*** HOLE CARDS ***
+Sitsou: [5d 8h]
+*** PRE-FLOP ***
+21:58:43 - Player3: Posts SB 40
+21:58:43 - Sitsou: Posts BB 80
+21:58:45 - Player3: Raises to 510 and is all-in
+21:58:52 - Sitsou: Folds
+*** SUMMARY ***
+Player3 wins main pot of 590
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6SA4E5DQZWRM3QMNDWPT0
+Date & Time: 2026-10-14 21:58:36 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 40/80
+Total Pot: 990
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (910) [BTN SB Hero]
+Seat 2: Player3 (590) [BB]
+*** HOLE CARDS ***
+Sitsou: [Jd 2s]
+*** PRE-FLOP ***
+21:58:36 - Sitsou: Posts SB 40
+21:58:36 - Player3: Posts BB 80
+21:58:39 - Sitsou: Raises to 910 and is all-in
+21:58:40 - Player3: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 990
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6RQTF49R4A92KVF45Y969
+Date & Time: 2026-10-14 21:58:17 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 40/80
+Total Pot: 240
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (830) [BB Hero]
+Seat 2: Player3 (670) [BTN SB]
+*** HOLE CARDS ***
+Sitsou: [3s 2s]
+*** PRE-FLOP ***
+21:58:17 - Player3: Posts SB 40
+21:58:17 - Sitsou: Posts BB 80
+21:58:19 - Player3: Calls 40
+21:58:20 - Sitsou: Checks
+*** FLOP *** [Ah 9c 4s]
+21:58:26 - Sitsou: Checks
+21:58:28 - Player3: Checks
+*** TURN *** [Ah 9c 4s 3d]
+21:58:31 - Sitsou: Bets 80
+21:58:33 - Player3: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 240
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6RGGXXR9Q9ZFSGBSKY1CT
+Date & Time: 2026-10-14 21:58:10 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 30/60
+Total Pot: 90
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (860) [BTN SB Hero]
+Seat 2: Player3 (640) [BB]
+*** HOLE CARDS ***
+Sitsou: [Ts 3s]
+*** PRE-FLOP ***
+21:58:10 - Sitsou: Posts SB 30
+21:58:10 - Player3: Posts BB 60
+21:58:14 - Sitsou: Folds
+*** SUMMARY ***
+Player3 wins main pot of 90
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6R31WSYN9H1YXTPAB3P1J
+Date & Time: 2026-10-14 21:57:56 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 30/60
+Total Pot: 210
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (800) [BB Hero]
+Seat 2: Player3 (700) [BTN SB]
+*** HOLE CARDS ***
+Sitsou: [9c 6h]
+*** PRE-FLOP ***
+21:57:56 - Player3: Posts SB 30
+21:57:56 - Sitsou: Posts BB 60
+21:57:58 - Player3: Calls 30
+21:57:59 - Sitsou: Checks
+*** FLOP *** [9s 3d 6c]
+21:58:04 - Sitsou: Bets 90
+21:58:06 - Player3: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 210
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6QVJYXRE7GGY3TVQD96CQ
+Date & Time: 2026-10-14 21:57:48 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 30/60
+Total Pot: 800
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (740) [BTN SB Hero]
+Seat 2: Player3 (760) [BB]
+*** HOLE CARDS ***
+Sitsou: [4s Ks]
+*** PRE-FLOP ***
+21:57:48 - Sitsou: Posts SB 30
+21:57:48 - Player3: Posts BB 60
+21:57:51 - Sitsou: Raises to 740 and is all-in
+21:57:53 - Player3: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 800
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6QFWMR26A5WCQMHW1JP8C
+Date & Time: 2026-10-14 21:57:36 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 30/60
+Total Pot: 210
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (680) [BB Hero]
+Seat 2: Player3 (820) [BTN SB]
+*** HOLE CARDS ***
+Sitsou: [7h 8d]
+*** PRE-FLOP ***
+21:57:36 - Player3: Posts SB 30
+21:57:36 - Sitsou: Posts BB 60
+21:57:38 - Player3: Calls 30
+21:57:40 - Sitsou: Checks
+*** FLOP *** [Jd Qc Th]
+21:57:44 - Sitsou: Bets 90
+21:57:45 - Player3: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 210
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6Q7TGN68HV5GBBQHKBFN5
+Date & Time: 2026-10-14 21:57:28 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 30/60
+Total Pot: 90
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (710) [BTN SB Hero]
+Seat 2: Player3 (790) [BB]
+*** HOLE CARDS ***
+Sitsou: [7h 2d]
+*** PRE-FLOP ***
+21:57:28 - Sitsou: Posts SB 30
+21:57:28 - Player3: Posts BB 60
+21:57:33 - Sitsou: Folds
+*** SUMMARY ***
+Player3 wins main pot of 90
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6PM9BQTZ8KN2M5GSJGAF7
+Date & Time: 2026-10-14 21:57:08 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 20/40
+Total Pot: 630
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (375) [BB Hero]
+Seat 2: Player3 (830) [BTN]
+Seat 3: Player2 (295) [SB]
+*** HOLE CARDS ***
+Sitsou: [4c 4s]
+Player2: [Ad Kd]
+*** PRE-FLOP ***
+21:57:08 - Player2: Posts SB 20
+21:57:08 - Sitsou: Posts BB 40
+21:57:10 - Player3: Calls 40
+21:57:14 - Player2: Raises to 295 and is all-in
+21:57:16 - Sitsou: Raises to 375 and is all-in
+21:57:16 - Player3: Folds
+*** FLOP *** [9d 3h 4d]
+*** TURN *** [9d 3h 4d Kc]
+*** RIVER *** [9d 3h 4d Kc 8h]
+*** SHOWDOWN ***
+Player2 shows [Ad Kd] (Pair) [Kd Kc Ad 9d 8h]
+Sitsou shows [4c 4s] (Three of a Kind) [4s 4d 4c Kc 9d]
+*** SUMMARY ***
+Sitsou wins main pot of 630
+Player2 finished 3rd
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6NMTNB57R6T4R22AM1MPC
+Date & Time: 2026-10-14 21:56:36 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 20/40
+Total Pot: 375
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (125) [BTN Hero]
+Seat 2: Player3 (955) [SB]
+Seat 3: Player2 (420) [BB]
+*** HOLE CARDS ***
+Sitsou: [Qd Qc]
+Player3: [7c Qh]
+*** PRE-FLOP ***
+21:56:36 - Player3: Posts SB 20
+21:56:36 - Player2: Posts BB 40
+21:56:40 - Sitsou: Raises to 125 and is all-in
+21:56:41 - Player3: Calls 105
+21:56:50 - Player2: Calls 85
+*** FLOP *** [7s Js 4d]
+21:56:57 - Player3: Bets 40
+21:56:58 - Player2: Folds
+*** TURN *** [7s Js 4d Ts]
+*** RIVER *** [7s Js 4d Ts Jh]
+*** SHOWDOWN ***
+Player3 shows [7c Qh] (Two Pair) [Js Jh 7s 7c Qh]
+Sitsou shows [Qd Qc] (Two Pair) [Qd Qc Js Jh Ts]
+*** SUMMARY ***
+Sitsou wins main pot of 375
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6N59P2P9YVW5SBSX252HM
+Date & Time: 2026-10-14 21:56:20 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 20/40
+Total Pot: 120
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (85) [SB Hero]
+Seat 2: Player3 (995) [BB]
+Seat 3: Player2 (420) [BTN]
+*** HOLE CARDS ***
+Sitsou: [7c Qs]
+*** PRE-FLOP ***
+21:56:20 - Sitsou: Posts SB 20
+21:56:20 - Player3: Posts BB 40
+21:56:22 - Player2: Folds
+21:56:23 - Sitsou: Calls 20
+21:56:25 - Player3: Checks
+*** FLOP *** [Ks 5d 2d]
+21:56:31 - Sitsou: Bets 40
+21:56:32 - Player3: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 120
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6MJC9DMJT5ZHEW6T6R37H
+Date & Time: 2026-10-14 21:56:01 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 15/30
+Total Pot: 85
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (35) [BB Hero]
+Seat 2: Player3 (1030) [BTN]
+Seat 3: Player2 (435) [SB]
+*** HOLE CARDS ***
+Sitsou: [7c 3c]
+Player3: [4d Kh]
+*** PRE-FLOP ***
+21:56:01 - Player2: Posts SB 15
+21:56:01 - Sitsou: Posts BB 30
+21:56:02 - Player3: Calls 30
+21:56:04 - Player2: Folds
+21:56:06 - Sitsou: Raises to 35 and is all-in
+21:56:08 - Player3: Calls 5
+*** FLOP *** [Qh 2s Qc]
+*** TURN *** [Qh 2s Qc Tc]
+*** RIVER *** [Qh 2s Qc Tc 2c]
+*** SHOWDOWN ***
+Sitsou shows [7c 3c] (Flush) [Qc Tc 7c 3c 2c]
+Player3 shows [4d Kh] (Two Pair) [Qh Qc 2s 2c Kh]
+*** SUMMARY ***
+Sitsou wins main pot of 85
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6KHP5H65E8BZWARH929FY
+Date & Time: 2026-10-14 21:55:27 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 15/30
+Total Pot: 1030
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (535) [BTN Hero]
+Seat 2: Player3 (500) [SB]
+Seat 3: Player2 (465) [BB]
+*** HOLE CARDS ***
+Sitsou: [Kc 4s]
+Player3: [Ac 9d]
+*** PRE-FLOP ***
+21:55:27 - Player3: Posts SB 15
+21:55:27 - Player2: Posts BB 30
+21:55:32 - Sitsou: Raises to 60
+21:55:36 - Player3: Calls 45
+21:55:38 - Player2: Folds
+*** FLOP *** [Ad Kh 5h]
+21:55:41 - Player3: Checks
+21:55:45 - Sitsou: Bets 75
+21:55:47 - Player3: Calls 75
+*** TURN *** [Ad Kh 5h 2h]
+21:55:49 - Player3: Checks
+21:55:51 - Sitsou: Bets 400 and is all-in
+21:55:52 - Player3: Calls 365 and is all-in
+*** RIVER *** [Ad Kh 5h 2h 6h]
+*** SHOWDOWN ***
+Player3 shows [Ac 9d] (Pair) [Ad Ac Kh 9d 6h]
+Sitsou shows [Kc 4s] (Pair) [Kh Kc Ad 6h 5h]
+*** SUMMARY ***
+Player3 wins main pot of 1030
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6K6B3D7JDJRB2H3H3CB7H
+Date & Time: 2026-10-14 21:55:15 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 15/30
+Total Pot: 465
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (550) [SB Hero]
+Seat 2: Player3 (530) [BB]
+Seat 3: Player2 (420) [BTN]
+*** HOLE CARDS ***
+Sitsou: [7c 9s]
+*** PRE-FLOP ***
+21:55:15 - Sitsou: Posts SB 15
+21:55:15 - Player3: Posts BB 30
+21:55:22 - Player2: Raises to 420 and is all-in
+21:55:23 - Sitsou: Folds
+21:55:24 - Player3: Folds
+*** SUMMARY ***
+Player2 wins main pot of 465
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6JX1EVMTJZ8Z7XP4KH0J3
+Date & Time: 2026-10-14 21:55:06 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 10/20
+Total Pot: 530
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (570) [BB Hero]
+Seat 2: Player3 (500) [BTN]
+Seat 3: Player2 (430) [SB]
+*** HOLE CARDS ***
+Sitsou: [2s 4s]
+*** PRE-FLOP ***
+21:55:06 - Player2: Posts SB 10
+21:55:06 - Sitsou: Posts BB 20
+21:55:09 - Player3: Raises to 500 and is all-in
+21:55:10 - Player2: Folds
+21:55:12 - Sitsou: Folds
+*** SUMMARY ***
+Player3 wins main pot of 530
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6J7FYSNYHNDVHSWZTTT3C
+Date & Time: 2026-10-14 21:54:44 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 10/20
+Total Pot: 190
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (500) [BTN Hero]
+Seat 2: Player3 (510) [SB]
+Seat 3: Player2 (490) [BB]
+*** HOLE CARDS ***
+Sitsou: [3h 2h]
+*** PRE-FLOP ***
+21:54:44 - Player3: Posts SB 10
+21:54:44 - Player2: Posts BB 20
+21:54:49 - Sitsou: Raises to 60
+21:54:52 - Player3: Folds
+21:54:54 - Player2: Calls 40
+*** FLOP *** [Kc 9s Qc]
+21:54:56 - Player2: Checks
+21:55:01 - Sitsou: Bets 60
+21:55:03 - Player2: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 190
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6HQ3EK3A6TDPDYCHTEYH9
+Date & Time: 2026-10-14 21:54:27 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 10/20
+Total Pot: 70
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (480) [SB Hero]
+Seat 2: Player3 (530) [BB]
+Seat 3: Player2 (490) [BTN]
+*** HOLE CARDS ***
+Sitsou: [Kh 8c]
+*** PRE-FLOP ***
+21:54:27 - Sitsou: Posts SB 10
+21:54:27 - Player3: Posts BB 20
+21:54:35 - Player2: Folds
+21:54:38 - Sitsou: Raises to 50
+21:54:40 - Player3: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 70
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 10€
+Game ID: 01M4Y6GRE8X1Y3H5Y3FRJ52CAT
+Prize pool: 20.00€
+Multiplier: x2
+Buy In: 10.00€
+Hand ID: 01M4Y6HCHV25P62PYV6XJ6VMQV
+Date & Time: 2026-10-14 21:54:16 (UTC)
+Table ID: 01M4Y6GREHA8VE2S5J16KGPHGB
+Blinds: 10/20
+Total Pot: 70
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (500) [BB Hero]
+Seat 2: Player3 (500) [BTN]
+Seat 3: Player2 (500) [SB]
+*** HOLE CARDS ***
+Sitsou: [3c Td]
+*** PRE-FLOP ***
+21:54:16 - Player2: Posts SB 10
+21:54:16 - Sitsou: Posts BB 20
+21:54:18 - Player3: Raises to 40
+21:54:21 - Player2: Folds
+21:54:24 - Sitsou: Folds
+*** SUMMARY ***
+Player3 wins main pot of 70
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y6FPZW2HWGH2MMCVBQFESA
+Date & Time: 2026-10-14 21:53:21 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 50/100
+Total Pot: 1000
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (500) [BB Hero]
+Seat 2: Player4 (1000) [BTN SB]
+*** HOLE CARDS ***
+Sitsou: [6h 7c]
+Player4: [Th Tc]
+*** PRE-FLOP ***
+21:53:21 - Player4: Posts SB 50
+21:53:21 - Sitsou: Posts BB 100
+21:53:29 - Player4: Raises to 1000 and is all-in
+21:53:32 - Sitsou: Calls 400 and is all-in
+*** FLOP *** [9d Kd Qc]
+*** TURN *** [9d Kd Qc 3c]
+*** RIVER *** [9d Kd Qc 3c 2h]
+*** SHOWDOWN ***
+Sitsou shows [6h 7c] (High Card) [Kd Qc 9d 7c 6h]
+Player4 shows [Th Tc] (Pair) [Th Tc Kd Qc 9d]
+*** SUMMARY ***
+Player4 wins main pot of 1000
+Player4 finished 1st and wins 8.00 EUR
+Sitsou finished 2nd
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y6ESTYY75M73W0G8MRKXR8
+Date & Time: 2026-10-14 21:52:52 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 40/80
+Total Pot: 1000
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (1000) [BTN SB Hero]
+Seat 2: Player4 (500) [BB]
+*** HOLE CARDS ***
+Sitsou: [7d 9d]
+Player4: [3h 7h]
+*** PRE-FLOP ***
+21:52:52 - Sitsou: Posts SB 40
+21:52:52 - Player4: Posts BB 80
+21:52:57 - Sitsou: Raises to 160
+21:53:00 - Player4: Calls 80
+*** FLOP *** [4h 3d 8c]
+21:53:04 - Player4: Checks
+21:53:07 - Sitsou: Bets 80
+21:53:09 - Player4: Raises to 340 and is all-in
+21:53:12 - Sitsou: Calls 260
+*** TURN *** [4h 3d 8c 5h]
+*** RIVER *** [4h 3d 8c 5h Jd]
+*** SHOWDOWN ***
+Player4 shows [3h 7h] (Pair) [3h 3d Jd 8c 7h]
+Sitsou shows [7d 9d] (High Card) [Jd 9d 8c 7d 5h]
+*** SUMMARY ***
+Player4 wins main pot of 1000
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y6EHEP3QSFWZK9MPCQ8SM3
+Date & Time: 2026-10-14 21:52:43 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 40/80
+Total Pot: 120
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (960) [BB Hero]
+Seat 2: Player4 (540) [BTN SB]
+*** HOLE CARDS ***
+Sitsou: [Ac 4s]
+*** PRE-FLOP ***
+21:52:43 - Player4: Posts SB 40
+21:52:43 - Sitsou: Posts BB 80
+21:52:48 - Player4: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 120
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y6EC0T6H9QMQTDK84PECVJ
+Date & Time: 2026-10-14 21:52:37 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 40/80
+Total Pot: 120
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (1000) [BTN SB Hero]
+Seat 2: Player4 (500) [BB]
+*** HOLE CARDS ***
+Sitsou: [3h 6d]
+*** PRE-FLOP ***
+21:52:37 - Sitsou: Posts SB 40
+21:52:37 - Player4: Posts BB 80
+21:52:40 - Sitsou: Folds
+*** SUMMARY ***
+Player4 wins main pot of 120
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y6DWR658JN3CEQ3Y4JKJZQ
+Date & Time: 2026-10-14 21:52:22 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 40/80
+Total Pot: 240
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (920) [BB Hero]
+Seat 2: Player4 (580) [BTN SB]
+*** HOLE CARDS ***
+Sitsou: [2h 7c]
+*** PRE-FLOP ***
+21:52:22 - Player4: Posts SB 40
+21:52:22 - Sitsou: Posts BB 80
+21:52:24 - Player4: Calls 40
+21:52:27 - Sitsou: Checks
+*** FLOP *** [6d Jd 5d]
+21:52:32 - Sitsou: Bets 80
+21:52:34 - Player4: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 240
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y6D9HABT45EK11GNY5YWTC
+Date & Time: 2026-10-14 21:52:02 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 40/80
+Total Pot: 310
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (920) [BTN Hero]
+Seat 2: Player4 (425) [SB]
+Seat 3: Player1 (155) [BB]
+*** HOLE CARDS ***
+Sitsou: [Tc 4c]
+Player4: [Kh Th]
+Player1: [5s 6s]
+*** PRE-FLOP ***
+21:52:02 - Player4: Posts SB 40
+21:52:02 - Player1: Posts BB 80
+21:52:06 - Sitsou: Folds
+21:52:09 - Player4: Raises to 425 and is all-in
+21:52:10 - Player1: Calls 75 and is all-in
+*** FLOP *** [Qc 6h 4h]
+*** TURN *** [Qc 6h 4h Ah]
+*** RIVER *** [Qc 6h 4h Ah 8h]
+*** SHOWDOWN ***
+Player4 shows [Kh Th] (Flush) [Ah Kh Th 8h 6h]
+Player1 shows [5s 6s] (Pair) [6s 6h Ah Qc 8h]
+*** SUMMARY ***
+Player4 wins main pot of 310
+Player1 finished 3rd
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y6CCTGH53BXD8FHKD0M57Y
+Date & Time: 2026-10-14 21:51:33 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 30/60
+Total Pot: 310
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (890) [SB Hero]
+Seat 2: Player4 (485) [BB]
+Seat 3: Player1 (125) [BTN]
+*** HOLE CARDS ***
+Sitsou: [4d Jh]
+Player1: [6h 5d]
+*** PRE-FLOP ***
+21:51:33 - Sitsou: Posts SB 30
+21:51:33 - Player4: Posts BB 60
+21:51:35 - Player1: Raises to 125 and is all-in
+21:51:40 - Sitsou: Calls 95
+21:51:50 - Player4: Folds
+*** FLOP *** [8c Kc 3c]
+*** TURN *** [8c Kc 3c 6c]
+*** RIVER *** [8c Kc 3c 6c 7c]
+*** SHOWDOWN ***
+Sitsou shows [4d Jh] (Flush) [Kc 8c 7c 6c 3c]
+Player1 shows [6h 5d] (Flush) [Kc 8c 7c 6c 3c]
+*** SUMMARY ***
+Sitsou wins main pot of 155
+Player1 wins main pot of 155
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y6BTCWPR16ZA0HHVSMEGDT
+Date & Time: 2026-10-14 21:51:14 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 30/60
+Total Pot: 890
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (445) [BB Hero]
+Seat 2: Player4 (485) [BTN]
+Seat 3: Player1 (570) [SB]
+*** HOLE CARDS ***
+Sitsou: [6s Kd]
+Player1: [Ts Td]
+*** PRE-FLOP ***
+21:51:14 - Player1: Posts SB 30
+21:51:14 - Sitsou: Posts BB 60
+21:51:16 - Player4: Folds
+21:51:17 - Player1: Raises to 570 and is all-in
+21:51:21 - Sitsou: Calls 385 and is all-in
+*** FLOP *** [7d 5d 3c]
+*** TURN *** [7d 5d 3c Jh]
+*** RIVER *** [7d 5d 3c Jh Kc]
+*** SHOWDOWN ***
+Player1 shows [Ts Td] (Pair) [Ts Td Kc Jh 7d]
+Sitsou shows [6s Kd] (Pair) [Kd Kc Jh 7d 6s]
+*** SUMMARY ***
+Sitsou wins main pot of 890
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y6ASHRCBV9N5JQZEEFBQZ3
+Date & Time: 2026-10-14 21:50:40 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 30/60
+Total Pot: 120
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (445) [BTN Hero]
+Seat 2: Player4 (425) [SB]
+Seat 3: Player1 (630) [BB]
+*** HOLE CARDS ***
+Sitsou: [4d 5s]
+Player4: [Qd 9s]
+Player1: [4c Tc]
+*** PRE-FLOP ***
+21:50:40 - Player4: Posts SB 30
+21:50:40 - Player1: Posts BB 60
+21:50:42 - Sitsou: Folds
+21:50:46 - Player4: Calls 30
+21:50:48 - Player1: Checks
+*** FLOP *** [3c 8s Th]
+21:50:51 - Player4: Checks
+21:50:53 - Player1: Checks
+*** TURN *** [3c 8s Th 6d]
+21:50:58 - Player4: Checks
+21:51:00 - Player1: Checks
+*** RIVER *** [3c 8s Th 6d Jc]
+21:51:07 - Player4: Checks
+21:51:08 - Player1: Checks
+*** SHOWDOWN ***
+Player4 shows [Qd 9s] (Straight) [Qd Jc Th 9s 8s]
+Player1 shows [4c Tc] (Pair) [Th Tc Jc 8s 6d]
+*** SUMMARY ***
+Player4 wins main pot of 120
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y69YX5YHTXKV3SW9DYZ4WT
+Date & Time: 2026-10-14 21:50:13 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 20/40
+Total Pot: 445
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (305) [SB Hero]
+Seat 2: Player4 (565) [BB]
+Seat 3: Player1 (630) [BTN]
+*** HOLE CARDS ***
+Sitsou: [Kc 3h]
+*** PRE-FLOP ***
+21:50:13 - Sitsou: Posts SB 20
+21:50:13 - Player4: Posts BB 40
+21:50:15 - Player1: Folds
+21:50:20 - Sitsou: Raises to 80
+21:50:21 - Player4: Calls 40
+*** FLOP *** [5c 4h 9h]
+21:50:28 - Sitsou: Bets 60
+21:50:29 - Player4: Calls 60
+*** TURN *** [5c 4h 9h 4s]
+21:50:32 - Sitsou: Bets 165 and is all-in
+21:50:37 - Player4: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 445
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y69EA36D6N2C0Z1E8P5R18
+Date & Time: 2026-10-14 21:49:56 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 20/40
+Total Pot: 630
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (345) [BB Hero]
+Seat 2: Player4 (605) [BTN]
+Seat 3: Player1 (550) [SB]
+*** HOLE CARDS ***
+Sitsou: [Th 2s]
+*** PRE-FLOP ***
+21:49:56 - Player1: Posts SB 20
+21:49:56 - Sitsou: Posts BB 40
+21:49:58 - Player4: Calls 40
+21:50:00 - Player1: Calls 20
+21:50:01 - Sitsou: Checks
+*** FLOP *** [6d 4c 6s]
+21:50:04 - Player1: Bets 510 and is all-in
+21:50:06 - Sitsou: Folds
+21:50:10 - Player4: Folds
+*** SUMMARY ***
+Player1 wins main pot of 630
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y691AT6JSHBSBC1F3F932H
+Date & Time: 2026-10-14 21:49:43 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 20/40
+Total Pot: 345
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (285) [BTN Hero]
+Seat 2: Player4 (625) [SB]
+Seat 3: Player1 (590) [BB]
+*** HOLE CARDS ***
+Sitsou: [Td Tc]
+*** PRE-FLOP ***
+21:49:43 - Player4: Posts SB 20
+21:49:43 - Player1: Posts BB 40
+21:49:45 - Sitsou: Raises to 285 and is all-in
+21:49:52 - Player4: Folds
+21:49:53 - Player1: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 345
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y68TZMKTB1TW0QW1ZSPZN2
+Date & Time: 2026-10-14 21:49:36 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 20/40
+Total Pot: 60
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (305) [SB Hero]
+Seat 2: Player4 (605) [BB]
+Seat 3: Player1 (590) [BTN]
+*** HOLE CARDS ***
+Sitsou: [9d 3h]
+*** PRE-FLOP ***
+21:49:36 - Sitsou: Posts SB 20
+21:49:36 - Player4: Posts BB 40
+21:49:38 - Player1: Folds
+21:49:39 - Sitsou: Folds
+*** SUMMARY ***
+Player4 wins main pot of 60
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y68AEAQTTTFFQQGWF7HGJM
+Date & Time: 2026-10-14 21:49:19 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 20/40
+Total Pot: 120
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (265) [BB Hero]
+Seat 2: Player4 (605) [BTN]
+Seat 3: Player1 (630) [SB]
+*** HOLE CARDS ***
+Sitsou: [Qd 8c]
+*** PRE-FLOP ***
+21:49:19 - Player1: Posts SB 20
+21:49:19 - Sitsou: Posts BB 40
+21:49:23 - Player4: Folds
+21:49:25 - Player1: Calls 20
+21:49:27 - Sitsou: Checks
+*** FLOP *** [Ad Ac Td]
+21:49:30 - Player1: Checks
+21:49:32 - Sitsou: Bets 40
+21:49:33 - Player1: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 120
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y67GB782BA672N7P3HYYY0
+Date & Time: 2026-10-14 21:48:52 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 20/40
+Total Pot: 80
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (265) [BTN Hero]
+Seat 2: Player4 (645) [SB]
+Seat 3: Player1 (590) [BB]
+*** HOLE CARDS ***
+Sitsou: [7s Td]
+Player4: [Tc 5h]
+Player1: [8s 4c]
+*** PRE-FLOP ***
+21:48:52 - Player4: Posts SB 20
+21:48:52 - Player1: Posts BB 40
+21:48:55 - Sitsou: Folds
+21:48:58 - Player4: Calls 20
+21:49:01 - Player1: Checks
+*** FLOP *** [Qs 6h 4d]
+21:49:04 - Player4: Checks
+21:49:05 - Player1: Checks
+*** TURN *** [Qs 6h 4d 7c]
+21:49:08 - Player4: Checks
+21:49:09 - Player1: Checks
+*** RIVER *** [Qs 6h 4d 7c 4s]
+21:49:12 - Player4: Checks
+21:49:13 - Player1: Checks
+*** SHOWDOWN ***
+Player4 shows [Tc 5h] (Pair) [4s 4d Qs Tc 7c]
+Player1 shows [8s 4c] (Three of a Kind) [4s 4d 4c Qs 8s]
+*** SUMMARY ***
+Player1 wins main pot of 80
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y679GGWGBZ9H4D4Q4XGD67
+Date & Time: 2026-10-14 21:48:45 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 15/30
+Total Pot: 45
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (280) [SB Hero]
+Seat 2: Player4 (630) [BB]
+Seat 3: Player1 (590) [BTN]
+*** HOLE CARDS ***
+Sitsou: [5d 3s]
+*** PRE-FLOP ***
+21:48:45 - Sitsou: Posts SB 15
+21:48:45 - Player4: Posts BB 30
+21:48:47 - Player1: Folds
+21:48:49 - Sitsou: Folds
+*** SUMMARY ***
+Player4 wins main pot of 45
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y66TJA34D99RZM1281H3GG
+Date & Time: 2026-10-14 21:48:30 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 15/30
+Total Pot: 280
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (220) [BB Hero]
+Seat 2: Player4 (660) [BTN]
+Seat 3: Player1 (620) [SB]
+*** HOLE CARDS ***
+Sitsou: [Kc 4s]
+*** PRE-FLOP ***
+21:48:30 - Player1: Posts SB 15
+21:48:30 - Sitsou: Posts BB 30
+21:48:36 - Player4: Calls 30
+21:48:37 - Player1: Calls 15
+21:48:40 - Sitsou: Raises to 220 and is all-in
+21:48:41 - Player4: Folds
+21:48:42 - Player1: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 280
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y669ABP82RZNG8BTF37G0J
+Date & Time: 2026-10-14 21:48:13 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 15/30
+Total Pot: 1240
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (220) [BTN Hero]
+Seat 2: Player4 (660) [SB]
+Seat 3: Player1 (620) [BB]
+*** HOLE CARDS ***
+Sitsou: [5d 2c]
+Player4: [Qh As]
+Player1: [Jd Ah]
+*** PRE-FLOP ***
+21:48:13 - Player4: Posts SB 15
+21:48:13 - Player1: Posts BB 30
+21:48:15 - Sitsou: Folds
+21:48:17 - Player4: Raises to 660 and is all-in
+21:48:18 - Player1: Calls 590 and is all-in
+*** FLOP *** [Jh 8s Td]
+*** TURN *** [Jh 8s Td 9c]
+*** RIVER *** [Jh 8s Td 9c Qs]
+*** SHOWDOWN ***
+Player4 shows [Qh As] (Straight) [Qh Jh Td 9c 8s]
+Player1 shows [Jd Ah] (Straight) [Qs Jd Td 9c 8s]
+*** SUMMARY ***
+Player4 wins main pot of 620
+Player1 wins main pot of 620
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y65Q6YV364SFJDDYFNVEM1
+Date & Time: 2026-10-14 21:47:54 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 15/30
+Total Pot: 220
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (110) [SB Hero]
+Seat 2: Player4 (770) [BB]
+Seat 3: Player1 (620) [BTN]
+*** HOLE CARDS ***
+Sitsou: [Qh 7c]
+Player4: [Ad Th]
+*** PRE-FLOP ***
+21:47:54 - Sitsou: Posts SB 15
+21:47:54 - Player4: Posts BB 30
+21:47:56 - Player1: Folds
+21:47:58 - Sitsou: Raises to 60
+21:48:00 - Player4: Raises to 770 and is all-in
+21:48:01 - Sitsou: Calls 50 and is all-in
+*** FLOP *** [2d 7s Qs]
+*** TURN *** [2d 7s Qs Kc]
+*** RIVER *** [2d 7s Qs Kc 2h]
+*** SHOWDOWN ***
+Sitsou shows [Qh 7c] (Two Pair) [Qs Qh 7s 7c Kc]
+Player4 shows [Ad Th] (Pair) [2h 2d Ad Kc Qs]
+*** SUMMARY ***
+Sitsou wins main pot of 220
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y64M5QM76HYE5EAXHYNKE2
+Date & Time: 2026-10-14 21:47:18 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 15/30
+Total Pot: 90
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (140) [BB Hero]
+Seat 2: Player4 (800) [BTN]
+Seat 3: Player1 (560) [SB]
+*** HOLE CARDS ***
+Sitsou: [6h 8c]
+Player4: [5c 8h]
+Player1: [5d 4s]
+*** PRE-FLOP ***
+21:47:18 - Player1: Posts SB 15
+21:47:18 - Sitsou: Posts BB 30
+21:47:24 - Player4: Calls 30
+21:47:25 - Player1: Calls 15
+21:47:26 - Sitsou: Checks
+*** FLOP *** [7h Tc 7d]
+21:47:29 - Player1: Checks
+21:47:31 - Sitsou: Checks
+21:47:33 - Player4: Checks
+*** TURN *** [7h Tc 7d 4c]
+21:47:37 - Player1: Checks
+21:47:39 - Sitsou: Checks
+21:47:42 - Player4: Checks
+*** RIVER *** [7h Tc 7d 4c 7c]
+21:47:44 - Player1: Checks
+21:47:46 - Sitsou: Checks
+21:47:48 - Player4: Checks
+*** SHOWDOWN ***
+Player1 shows [5d 4s] (Full House) [7h 7d 7c 4s 4c]
+Sitsou shows [6h 8c] (Three of a Kind) [7h 7d 7c Tc 8c]
+Player4 shows [5c 8h] (Three of a Kind) [7h 7d 7c Tc 8h]
+*** SUMMARY ***
+Player1 wins main pot of 90
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y63QXN2X954NGH8ZZT4CZ6
+Date & Time: 2026-10-14 21:46:49 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 10/20
+Total Pot: 560
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (140) [BTN Hero]
+Seat 2: Player4 (840) [SB]
+Seat 3: Player1 (520) [BB]
+*** HOLE CARDS ***
+Sitsou: [9s Td]
+*** PRE-FLOP ***
+21:46:49 - Player4: Posts SB 10
+21:46:49 - Player1: Posts BB 20
+21:46:56 - Sitsou: Folds
+21:46:58 - Player4: Calls 10
+21:46:59 - Player1: Checks
+*** FLOP *** [Th 3s Kc]
+21:47:08 - Player4: Bets 20
+21:47:10 - Player1: Raises to 500 and is all-in
+21:47:15 - Player4: Folds
+*** SUMMARY ***
+Player1 wins main pot of 560
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y634PDFCE6J4454ACS0WGN
+Date & Time: 2026-10-14 21:46:29 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 10/20
+Total Pot: 840
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (560) [SB Hero]
+Seat 2: Player4 (420) [BB]
+Seat 3: Player1 (520) [BTN]
+*** HOLE CARDS ***
+Sitsou: [Tc Th]
+Player4: [Ac 7h]
+*** PRE-FLOP ***
+21:46:29 - Sitsou: Posts SB 10
+21:46:29 - Player4: Posts BB 20
+21:46:31 - Player1: Folds
+21:46:34 - Sitsou: Raises to 50
+21:46:36 - Player4: Raises to 420 and is all-in
+21:46:37 - Sitsou: Calls 370
+*** FLOP *** [Jd 5h 3d]
+*** TURN *** [Jd 5h 3d As]
+*** RIVER *** [Jd 5h 3d As 8s]
+*** SHOWDOWN ***
+Sitsou shows [Tc Th] (Pair) [Th Tc As Jd 8s]
+Player4 shows [Ac 7h] (Pair) [As Ac Jd 8s 7h]
+*** SUMMARY ***
+Player4 wins main pot of 840
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y62MYW0MGE8TGF2RK5K1XK
+Date & Time: 2026-10-14 21:46:13 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 10/20
+Total Pot: 520
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (580) [BB Hero]
+Seat 2: Player4 (440) [BTN]
+Seat 3: Player1 (480) [SB]
+*** HOLE CARDS ***
+Sitsou: [3d 5s]
+*** PRE-FLOP ***
+21:46:13 - Player1: Posts SB 10
+21:46:13 - Sitsou: Posts BB 20
+21:46:15 - Player4: Calls 20
+21:46:17 - Player1: Calls 10
+21:46:18 - Sitsou: Checks
+*** FLOP *** [8d 4s 8c]
+21:46:23 - Player1: Bets 460 and is all-in
+21:46:25 - Sitsou: Folds
+21:46:26 - Player4: Folds
+*** SUMMARY ***
+Player1 wins main pot of 520
+
+------------
+
+*** HEADER ***
+Site: Betclic.fr
+Game Mode: Spin
+Game Type: NL Texas Hold'em
+Game Name: Spin & Rush 2€
+Game ID: 01M4Y6189GNSN6G17V10D61NWF
+Prize pool: 8.00€
+Multiplier: x4
+Buy In: 2.00€
+Hand ID: 01M4Y61N4GK6791D8X3REHDAPF
+Date & Time: 2026-10-14 21:45:41 (UTC)
+Table ID: 01M4Y6189TGXER4JARE1178J4D
+Blinds: 10/20
+Total Pot: 580
+Rake: 0
+*** PLAYERS ***
+Seat 1: Sitsou (500) [BTN Hero]
+Seat 2: Player4 (500) [SB]
+Seat 3: Player1 (500) [BB]
+*** HOLE CARDS ***
+Sitsou: [Kh Jd]
+*** PRE-FLOP ***
+21:45:41 - Player4: Posts SB 10
+21:45:41 - Player1: Posts BB 20
+21:45:47 - Sitsou: Raises to 60
+21:45:50 - Player4: Calls 50
+21:45:52 - Player1: Folds
+*** FLOP *** [Js Kd Th]
+21:45:57 - Player4: Checks
+21:45:59 - Sitsou: Checks
+*** TURN *** [Js Kd Th 9d]
+21:46:06 - Player4: Checks
+21:46:09 - Sitsou: Bets 440 and is all-in
+21:46:10 - Player4: Folds
+*** SUMMARY ***
+Sitsou wins main pot of 580

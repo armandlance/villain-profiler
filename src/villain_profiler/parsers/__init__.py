@@ -1,10 +1,12 @@
 from .base import BaseParser
+from .betclic import BetclicParser
 from .pokerstars import PokerStarsParser
 from .winamax import WinamaxParser
 
 PARSERS: dict[str, type[BaseParser]] = {
     "pokerstars": PokerStarsParser,
     "winamax": WinamaxParser,
+    "betclic": BetclicParser,
 }
 
 
