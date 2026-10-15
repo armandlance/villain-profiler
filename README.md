@@ -33,7 +33,7 @@ Hand histories -> parsers -> models -> stats -> profiling -> advisor
 
 ## Roadmap
 
-- [x] Parseur PokerStars (cash, préflop)
+- [x] Parseurs PokerStars (cash) et Betclic (Spin & Rush), préflop
 - [x] VPIP / PFR / 3-bet
 - [x] Profils par règles + confiance
 - [ ] Parseur Winamax / GGPoker
